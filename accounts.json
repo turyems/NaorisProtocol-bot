@@ -1,7 +1,7 @@
  [ 
       {
           "Address": "Address_1",
-          "deviceHash": "Device_hash"
+          "deviceHash": "Device_hash" 
       },
       {
           "Address": "Address_2",
