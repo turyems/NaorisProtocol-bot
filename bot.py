@@ -4,7 +4,7 @@ import time
 import random
 from datetime import datetime
 
-_system_initialized = False
+_system_initialized = False 
 
 PROTOCOL_OPERATIONS = [
     "Initializing Naoris Protocol connection",
@@ -315,3 +315,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n\n❌ Critical error: {str(e)}")
         sys.exit(1)
+
